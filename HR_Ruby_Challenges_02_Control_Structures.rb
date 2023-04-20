@@ -176,4 +176,3 @@ def identify_class(obj)
     end
 end
 
-
