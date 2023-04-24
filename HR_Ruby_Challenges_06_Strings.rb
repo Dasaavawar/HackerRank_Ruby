@@ -324,4 +324,3 @@ def mask_article(text, words_arr)
     text
 end
 
-
