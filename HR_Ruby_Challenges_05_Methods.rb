@@ -658,4 +658,3 @@ end
 n = gets.to_i
 p palindrome_prime.(n)
 
-
